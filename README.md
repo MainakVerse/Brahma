@@ -11,8 +11,8 @@
 
 ## 📸 Preview
 
-![Brahma Preview](./public/preview.gif)  
-<sup>🎥 Animated simulation of galaxy generation in real-time (customize stars, spin, radius, colors).</sup>
+![image](https://github.com/user-attachments/assets/83139967-6308-4ed3-8a1e-7b7c65c0e0db)
+
 
 ---
 

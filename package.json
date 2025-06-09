@@ -1,0 +1,40 @@
+{
+  "name": "brahma",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "@react-three/drei": "^10.0.7",
+    "@react-three/fiber": "^9.1.2",
+    "@react-three/handle": "^6.6.17",
+    "@react-three/xr": "^6.6.17",
+    "lucide-react": "^0.511.0",
+    "lz-string": "^1.5.0",
+    "next": "15.3.2",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "tailwindcss-animate": "^1.0.7",
+    "three": "^0.176.0",
+    "zod": "^3.24.4"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@types/three": "^0.176.0",
+    "eslint": "^9",
+    "eslint-config-next": "15.3.2",
+    "eslint-config-prettier": "^10.1.5",
+    "prettier": "^3.5.3",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}
